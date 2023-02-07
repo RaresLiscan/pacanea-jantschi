@@ -1,0 +1,685 @@
+By the melting point, the chemical elements can be ordered as follows: 
+0 Cr < Fe < Al < Mg 
+0 Rn < Xe < Kr < Ar < Ne < He 
+0 W < Re < Os < Ta 
+0 C < N < O < F < Ne 
+0 C < B < Be < LI < He < H 
+1 Mg < Al < Fe < Cr 
+1 He < Ne < Ar < Kr < Xe < Rn 
+1 Ta < Os < Re < W 
+1 Ne < F < O < N < C 
+1 H < He < Li < Be < B < C
+
+By the solid state density, the chemical elements can be ordered as follows:
+0 Cu < Fe < Al < Mg 
+0 Rn < Xe < Kr < Ar < Ne < He 
+0 Ir < Os < Pt < Re < Au < W 
+0 F < O < N 
+0 B < C < N 
+0 B < Be < Li < He < H 
+1 Mg < Al < Fe < Cu 
+1 He < Ne < Ar < Kr < Xe < Rn 
+1 W < Au < Re < Pt < Os < Ir 
+1 N < O < F 
+1 N < C < B 
+1 H < He < Li < Be < B
+
+By the first ionization potential, the chemical elements can be ordered as follows:
+0 N < O 
+0 He < Ne < Ar < Kr < Xe < Rn 
+0 H < Li < Na < K 
+0 F < Cl < Br < I 
+0 He < H 
+1 O < N 
+1 Rn < Xe < Kr < Ar < Ne < He 
+1 K < Na < Li < H 
+1 I < Br < Cl < F 
+1 H < He 
+
+By the electronegativity, the chemical elements can be ordered as follows: 
+0 Ni < Co < Fe < Mn 
+0 O < Cl < N < S < C < P < H 
+0 H < Li < Na < K < Rb < Cs < Fr 
+0 F < Cl < Br < I < At 
+0 F < O < N < C < B < Be < Li 
+1 Mn < Fe < Co < Ni 
+1 H < P < C < S < N < Cl < O 
+1 Fr < Cs < Rb < K < Na < Li < H 
+1 At < I < Br < Cl < F 
+1 Li < Be < B < C < N < O < F 
+
+Identify which classifications are correctly given for chemical combinations:
+0 H2SO4 - quaternary
+1 H2SO4 - heteroatomic
+0 H2SO4 - homoatomic
+1 H2O - binary
+0 H2O - homoatomic
+1 H2O - heteroatomic
+0 O2 - binary
+1 O2 - homoatomic 
+
+When analysing the measurements of the properties of the atmosphere, someone may see that: 
+0 In the upper atmosphere exists a part in which is in majority atomic hydrogen (H) 
+1 In the upper atmosphere exists a part in which is in majority atomic oxygen (O) 0 Biosphere domain of the atmosphere is correlated with minor changes in density ( ?) and pressure (p) 
+1 Biosphere domain of the atmosphere is correlated with minor changes in temperature (T) and thermal speed (v T) 
+0 Biosphere domain of the atmosphere is correlated with minor changes in molar mass (M M) and molar volume (V M) 0 One of density ( ?) and pressure (p) carries information about the composition of the atmosphere 
+0 One of temperature (T) and thermal speed (v T) carries information about the composition of the atmosphere 
+1 One of molar mass (M M) and molar volume (V M) carries information about the composition of the atmosphere
+
+The atmospheric planetary boundary layer it has: 
+0 ~ 20 km 
+0 O2 (78%), N2 (21%), Others (1%) 
+0 Oxygen (78%), Silicium (21%), Others (1%) 
+0 Silicium (78%), Oxygen (21%), Others (1%) 
+0 Oxygen (78%), Nitrogen (21%), Others (1%) 
+1 ~ 2 km 
+1 N 2 (78%), O2 (21%), Others (1%) 
+1 Nitrogen (78%), Oxygen (21%), Others (1%) 
+1 Gaseous state
+
+When analysing the measurements of the properties of the atmosphere, someone may see that:
+0 In the upper atmosphere exists a part in which is in majority atomic hydrogen (H)
+1 In the upper atmosphere exists a part in which is in majority atomic oxygen (O)
+0 Biosphere domain of the atmosphere is correlated with minor changes in density (ρ) and pressure (p)
+1 Biosphere domain of the atmosphere is correlated with minor changes in temperature (T) and thermal speed (vT)
+0 Biosphere domain of the atmosphere is correlated with minor changes in molar mass (MM) and molar volume (VM)
+0 One of density (ρ) and pressure (p) carries information about the composition of the atmosphere
+0 One of temperature (T) and thermal speed (vT) carries information about the composition of the atmosphere
+1 One of molar mass (MM) and molar volume (VM) carries information about the composition of the atmosphere
+
+When analysing the composition of the topsoil, someone may see that:
+0 The solid (mineral + organic) part of it is much less than half
+0 The fluid (air + water) part of it is much less than half
+0 The solid (mineral + organic) part of it is much more than half
+0 The fluid (air + water) part of it is much more than half
+1 The solid (mineral + organic) part of it is about half
+1 The fluid (air + water) part of it is about half
+0 The mineral part of it is more than half
+1 The mineral part of it is less than half
+
+By the number of moles the elements most spread in the crust are:
+0 O, Na, H, Cl, S, Ca, Si (O > Na > H > Cl > S > Ca > Si)
+0 Si, Al, Fe, Na, Cu, Zn (Si > Al > Fe > Cu > Na > Zn)
+0 Si, Al, Fe, Cu, Zn (Si > Al > Fe > Cu > Zn)
+0 Si, Al, Fe, Cu (Si > Al > Fe > Cu)
+0 Si, Fe, Al (Si > Fe > Al)
+1 O, Si, Al (O > Si > Al)
+1 O, Si, Al, H (O > Si > Al > H)
+1 O, Si, Al, H, Na (O > Si > Al > H > Na)
+1 O, Si, Al, H, Na, Ca (O > Si > Al > H > Na > Ca
+1 O, Si, Al, H, Na, Ca, Fe (O > Si > Al > H > Na > Ca > Fe)
+
+In relation to the observing space select from the following statements the true ones:
+0 Chemical compounds have duplicitous and not well defined chemical structure
+1 Chemical compounds have unique and well defined chemical structure
+0 The homogeneous substances have variable chemical composition
+1 The homogeneous substances have constant chemical composition
+0 The substance mixtures doesn't have chemical composition
+1 The substance mixtures have well defined composition
+0 Materials doesn't have chemical composition
+1 Materials have variable and continue chemical composition
+0 Materials ensembles have constant and continue chemical composition
+1 Materials ensembles have variable and discontinue chemical composition
+0 A body has a speed comparable to the light
+1 A body has a speed much less than the light
+0 Matter is the whole relativistic observable space
+1 Matter is the whole non relativistic observable space
+0 The beta and gamma radiations are differentiated through speed
+1 The beta and gamma radiations are differentiated through properties
+0 Radiant energy has the speed comparable with sound
+1 Radiant energy has the speed comparable with light
+
+In relation with a series of repeated measurements:
+1 If the measurement is on an ordinal scale then the tendency is given by the median
+0 If the measurement is on an interval scale then the multiplication of the values has sense
+1 If the measurement is on a ratio scale then the multiplication of the values has sense
+1 If the measurement is on an interval or a ratio scale then the tendency is given by the average
+0 If the measurement is on an ordinal scale then the tendency is given by the average
+0 If the measurement is on an ordinal scale then the tendency is given by the mode
+0 If the measurement is on a multinomial (multinomial) scale then the tendency is given by the average
+1 If the measurement is on a multinomial (multinomial) scale then the tendency is given by the mode
+0 If the measurement is on a binary (binomial) scale then the tendency is given by the average
+1 If the measurement is on a binary (binomial) scale then the tendency is given by the mode
+
+Factorial analysis:
+0 Requires that the multinomial variables to be converted to ordinal variables
+1 Requires that the multinomial variables to be converted to binary variables
+0 May be incomplete, in which case the experiment are included in all possible
+0 It enables the establishment of inequalities between quantitative variables and quantitative variables
+0 It can be full, in which case explains partly the phenomena subjected to the experiment
+1 It can be full, in which case explains entirely the phenomena subjected to the experiment
+1 It can be full, in which case in the experiment are included in all possible variants
+0 Not requires the design of the experiment
+1 Requires the design of the experiment
+1 It enables the establishment of relationships between qualitative variables and quantitative variables 
+
+The chemical composition:
+0 Varies when passing from one state of aggregation to another
+0 It is well defined for a material
+1 It is well defined for a pure substance
+0 It is incompletely defined by the empirical formula
+1 It is completely defined by the empirical formula
+1 Defines a class of chemical compounds that share the same combination ratio of each element
+0 Uniquely defines a chemical compound
+1 It is defined by the ratio combination of each element in the compound
+
+Almost all the elements occur in nature only in the form of combinations. Exceptions are:
+0 F
+0 Ca
+0 K
+0 Na
+0 N
+0 Ni
+1 Pt
+1 Ag
+1 Au
+1 Ar
+1 Ne
+1 He
+
+Chemical formulas are:
+0 Integral formulas
+0 Irrational formulas
+0 Calculation formulas
+1 Structural formulas
+1 Rational formulas
+0 Molar formulas
+1 Molecular formulas
+1 Empirical (gross) formulas
+
+In connection with the empirical, molecular, structural and rational formulas:
+0 Compounds with different molecular formulas can have the same structural formula
+1 Compounds with different structural formulas can have the same molecular formula
+0 Compounds with different empirical formulas can have the same structural formula
+1 Compounds with different structural formulas can have the same empirical formula
+0 Compounds with different empirical formulas can have the same rational formula
+1 Compounds with different rational formulas can have the same empirical formula
+0 Compounds with different molecular formulas can have the same structural formula
+1 Compounds with different structural formulas can have the same molecular formula
+0 Compounds with different molecular formulas can have the same rational formula
+1 Compounds with different rational formulas can have the same molecular formula
+0 Compounds with different empirical formulas can have the same molecular formula
+1 Compounds with different molecular formulas can have the same empirical formula
+
+Typical examples of minerals by classes of minerals are:
+0 Nichelates: NaNO3, KNO3
+0 Oxides and hydroxides: CaCO3, MgCO3, CaCO3·MgCO3, Cu2(CO3)(OH)2
+1 Carbonates: CaCO3, MgCO3, CaCO3·MgCO3, Cu2(CO3)(OH)2
+1 Oxides and hydroxides: Al2O3, AlO(OH), Al(OH)3
+0 Selenides: FeS2, PbS, ZnS, HgS, CuS, Sb2S3, Bi2S3, MoS2, CuFeS2, NiAs, CoAsS1 Sulfides and arsenides: FeS2, PbS, ZnS, HgS, CuS, Sb2S3, Bi2S3, MoS2, CuFeS2, NiAs,CoAsS
+0 Halogenated: FeS2, PbS, ZnS, HgS, CuS, Sb2S3, Bi2S3, MoS2, CuFeS2, NiAs, CoAsS
+1 Halogenated: NaCl, KCl, CaF2, KCl·MgCl2·6H2O
+0 Fossil: Diamond, coal, S, Au, Ag, Cu, Pt, Pd
+1 Native: Diamond, coal, S, Au, Ag, Cu, Pt, Pd 
+
+Identify the correct answers:
+0 Fe2SO2(F,OH)2 is topaz
+1 Al2SiO4(F,OH)2 is topaz
+0 Glass is a form of Al2O3
+1 The quartz is a form of SiO2
+0 The quartz is a form of Al2O3
+1 Sapphire and ruby contain mostly Al2O3
+1 Corundum is a form of Al2O3
+0 Be3Al2(SiO3)6 is borane
+1 Be3Al2(SiO3)6 is beryl
+0 MHg2Si3O10·2H2O (M = Na2, K2, Ca, Mg) are zeolites
+0 MAl2S3O10·2H2O (M = Na2, K2, Ca, Mg) are zeolites
+1 MAl2Si3O10·2H2O (M = Na2, K2, Ca, Mg) are zeolites
+
+For the reaction H2 + O2 => H2O:
+1 It is possible that: H2(g) + O2(g) => H2O(g)
+1 It is possible that: H2(g) + O2(g) => H2O(l)
+0 H2O is reactant
+1 H2O is product of reaction
+1 H2 and O2 are reactants
+0 H2 and O2 are products of reaction
+0 The correct coefficients are 1 (H2), 2 (O2), 2 (H2O)
+0 The correct coefficients are 1 (H2), 1 (O2), 1 (H2O)
+0 The correct coefficients are 1 (H2), 2 (O2), 1 (H2O)
+1 The correct coefficients are 2 (H2), 1 (O2), 2 (H2O) 
+
+Which of the following apply in determining coefficients of a chemical reaction:
+1 Coefficients are the smallest natural numbers satisfying the conservation of the number of atoms
+0 Law transforming the mass into energy
+0 The total number of protons given by the atoms is equal to the total number of protons taken by the atoms
+0 The total number of neutrons given by the atoms is equal to the total number of neutrons taken by the atoms
+1 The total number of electrons given by the atoms is equal to the total number of electrons taken by the atoms
+1 For each type of atoms sum total number of atoms in the reactants is equal to the sum of the total number of atoms in the reaction products
+0 Law of conservation of the number of neutrons
+0 Law of conservation of the number of protons
+1 Electron number conservation law
+1 Law of conservation of the number of atoms
+
+In connection with the hydrogen ions:
+0 The most probable value of n in (H2O)nH+ is 8
+1 The most probable value of n in (H2O)nH+ is 4
+0 In ammonia H- ions stabilizes becoming NH4-
+1 In ammonia H+ ions stabilizes becoming NH4+
+0 In water H- ions stabilizes becoming (H2O)nH1 
+1 In water H+ ions stabilizes becoming (H2O)nH+
+0 H- ions very low reactive
+1 H- ions very reactive
+1 H- ions are instable
+0 H- ions are stable
+0 H+ ions very low reactive
+1 H+ ions very reactive
+1 H+ ions are instable
+0 H+ ions are stable
+
+In connection with isotopes of hydrogen:
+0 p is radioactive having T1/2 = 12.26 years
+0 D is radioactive having T1/2 = 12.26 years
+1 T is radioactive having T1/2 = 12.26 years
+0 3*M(T) = 2*M(D)
+0 3*M(T) = M(p)
+0 2*M(D) = M(p)
+1 2*M(T) = 3*M(D)
+1 M(T) = 3*M(p)
+1 M(D) = 2*M(p)
+0 T = 3015H is tritium
+0 D = 2010H is deuterium
+0 p = 105H is protium
+1 T = 31H is tritium
+1 D = 21H is deuterium
+1 p = 11H is protium
+
+Hydrogen reactions with nonmetals:
+0 H2 + X2 → HX2
+0 H2 + X2 → H2X
+1 H2 + X2 → HX
+1 H2 + O2 → OH2
+0 H2 + S8 → SH4
+1 H2 + S8 → SH2
+0 H2 + N2 → N2H3
+1 H2 + N2 → NH3
+0 H2 + P4 → P4H3
+1 H2 + P4 → PH3
+0 H2 + C → CH2
+1 H2 + C → CH4
+0 H2 + Si → SiH2
+1 H2 + Si → SiH4
+0 H2 + F2 → H2F2
+1 H2 + F2 → HF 
+
+Hydrogen reactions with metals:
+0 H2 + Na → NaH2
+0 H2 + Na → Na2H
+1 H2 + Na → NaH
+1 H2 + Ca → CaH2
+0 H2 + Ca → Ca2H
+0 H2 + Ca → CaH
+1 H2 + Mg → MgH2
+0 H2 + Mg → Mg2H
+0 H2 + Mg → MgH
+0 H2 + Li → LiH2
+0 H2 + Li → Li2H
+1 H2 + Li → LiH
+
+Hydrogen reducing character is manifested in:
+1 H2 + Li + Al → LiAlH4
+0 y/2H2 + MXy → MH + X2
+1 y/2H2 + MXy → M + yHX
+0 H2 + M2Oy → 2MH + y/2O2
+1 H2 + M2Oy → 2M + yH2O
+0 H2 + HC≡CH → H2C-CH2
+0 H2 + HC≡CH → H4C-CH4
+1 H2 + HC≡CH → H3C-CH3
+0 H2 + H2C=CH2 → HC≡CH
+1 H2 + H2C=CH2 → H3C-CH3
+0 H2 + H2C=O → CO2 + H2O
+1 H2 + H2C=O → H3C-OH
+
+The oxygen:
+0 Is ~5% from crust (~4.7%mass, ~6%at)
+1 Is ~50% from crust (~47%mass, ~60%at)
+0 Is ~10%mass from water
+1 Is ~90%mass from water
+0 Is ~80%vol from air
+1 Is ~20%vol from air
+0 Is a relatively low spread in the environment (~5%)
+1 Is the most spread element in the environment (~50%)
+0 Is the first element by electronegativity before fluorine
+1 Is the second element by electronegativity after fluorine
+0 Is the second element of Group 16
+1 Is the first element of Group 16
+
+Oxygen is found in:
+0 One of its 2 isotopic states: 7O and 8O
+1 One of its 3 isotopic states: 16O, 17O, and 18O
+0 In middle parts of the atmosphere (stratosphere, mesosphere) as homoatomic molecules of tetraoxygen (O4)
+1 In middle parts of the atmosphere (stratosphere, mesosphere) as homoatomic molecules of trioxygen (O3)
+1 In lower parts of the atmosphere (planetary boundary layer, troposphere), as homoatomic molecules of dioxygen (O2)
+0 In upper parts of the atmosphere (thermosphere and exosphere), as homoatomic molecules of dioxygen (O2)
+0 In lower parts of the atmosphere (planetary boundary layer, troposphere, stratosphere, mesosphere), in atomic form (O)
+1 In upper parts of the atmosphere (thermosphere and exosphere), in atomic form (O)
+0 In crust, as oxy-salts: silicides, alumino-silicides, carbonides, sulfides, and nitrides
+1 In crust, as oxy-salts: silicates, alumino-silicates, carbonates, sulfates, nitrates, and as oxides
+0 Water of the oceans, covering 1/4 of the Earth's surface
+1 Water of the oceans, covering 3/4 of the Earth's surface 
+
+Related to the ozone:
+0 The presence of the ozone is of vital importance for protecting Earth’s surface on excessive exposure to X radiations
+1 The presence of the ozone is of vital importance for protecting Earth’s surface on excessive exposure to UV radiations
+1 Highest concentration of ozone is at about 25000 m altitude
+0 Highest concentration of ozone is at about 2500 m altitude
+0 Lowest concentration of ozone is at about 25 km altitude
+1 Highest concentration of ozone is at about 25 km altitude
+0 The action of the IR radiation on O3 produces traces of O2 in exosphere
+1 The action of the UV radiation on O2 produces traces of O3 in stratosphere
+
+In connection with the production and use of the oxygen:
+0 The green plants, using light do: Cx(H2O)y + (x+y/2)O2 → xCO2 + yH2O
+0 Breathing organisms, producing energy do: xCO2 + yH2O → Cx(H2O)y + (x+y/2)O2
+1 Breathing organisms, producing energy do: Cx(H2O)y + (x+y/2)O2 → xCO2 + yH2O
+1 The green plants, using light do: xCO2 + yH2O → Cx(H2O)y + (x+y/2)O2
+0 4AlBr3 + 3O2 → 6Br2O + 4Al
+1 4AlBr3 + 3O2 → 6Br2 + 2Al2O3
+0 4HX + O2 → 2X2 + 2H2O, X = F
+1 4HX + O2 → 2X2 + 2H2O, X = Cl, Br, I
+0 Combustion of fossil coils and hydrocarbons is a secondary source of heating (~25% in 2014)
+1 Combustion of fossil coils and hydrocarbons is the main source of heating (~75% in 2014)
+0 Oxygen can be obtained by distilling the water
+1 Oxygen can be obtained by distilling the air
+
+In connection with the compounds containing oxygen:
+0 HClF3 and HClF4 are oxyacids
+0 HCl and HClF2 are oxyacids
+0 HNO and HNO4 are oxyacids
+0 H2SO and H2SO2 are oxyacids
+1 HClO3 and HClO4 are oxyacids
+1 HClO and HClO2 are oxyacids
+1 HNO2 and HNO3 are oxyacids
+1 H2SO3 and H2SO4 are oxyacids
+0 Some phosphorus oxides are: P3O2, P5O2, P10O4, (P9O4)3
+1 Some phosphorus oxides are: P2O3, P2O5, P4O10, (P4O9)3
+0 The angle between the bonds of the oxygen is increasing as given: -Si-O-Si- < H3C-O-CH3 < H-O-H
+1 The angle between the bonds of the oxygen is increasing as given: H-O-H < H3C-O-CH3 < - Si-O-Si0 The dicoordinated oxygen oxids R-O-R have linear molecules
+1 The dicoordinated oxygen oxids R-O-R have angular molecules 
+
+In connection with H2O:
+1 At 25°C and 1 atm pKH2O = 14 and pH = 7
+1 pKH2O = pH + pOH, where pH = -log10([H+]) and pOH = -log10([OH-])
+0 pKH2O = ln(KH2O), KH2O = [H3O+]·[HO-]/[H2O] 2 ~ [H3O+]·[HO-], where [·] stands for molar concentration (or activity)
+0 pKH2O = log10(KH2O), KH2O = [H3O+]·[HO-]/[H2O] 2 ~ [H3O+]·[HO-], where [·] stands for molar concentration (or activity)
+1 pKH2O = -log10(KH2O), KH2O = [H3O+]·[HO-]/[H2O] 2 ~ [H3O+]·[HO-], where [·] stands for molar concentration (or activity)
+0 pH = ln([H+]), where [·] stands for molar concentration (or activity)
+0 pH = log10([H+]), where [·] stands for molar concentration (or activity)
+1 pH = -log10([H+]), where [·] stands for molar concentration (or activity)
+0 Ionic product of the water KH2O decreases with temperature
+1 Ionic product of the water KH2O increases with temperature
+0 Exists one phase of ice
+1 Were identified no less than 15 phases of ice 
+
+In connection with the pH:
+0 stream water pH is 7-8
+1 stream water pH is 6-7
+0 acid rain pH is 5-6
+0 normal rain pH is 1-5
+1 acid rain pH is 1-5
+1 normal rain pH is 5-6
+0 pH(milk of lime) < pH(Hydrogen peroxide) < pH(Baking soda) < pH(Seawater) < 7
+1 7 < pH(Seawater) < pH(Baking soda) < pH(Hydrogen peroxide) < pH(Milk of lime)
+0 7 < pH(Potatoes) < pH(Bananas) < pH(Tomatoes) < pH(Vinegar) < pH(Lemon) < pH(Battery acid) < pH(HCl)
+1 pH(HCl) < pH(Battery acid) < pH(Lemon) < pH(Vinegar) < pH(Tomatoes) < pH(Bananas) < pH(Potatoes) < 7 
+
+Alkali metals applications include:
+0 Fe-Cu in liquid thermometers for high temperature (replacing Hg)
+1 Na-K in liquid thermometers for high temperature (replacing Hg)
+0 RbCN and CsCN in electrolytic processes
+0 Li in solar cells
+0 K in Lithium-ion-polymer batteries
+0 Li in detergents
+1 Na in detergents
+1 Li in Lithium-ion polymer batteries
+1 Rb and Cs in solar cells
+1 NaCN and KCN in electrolytic processes 
+
+Alkali earth metal applications include:
+0 Medical: HgO
+0 Construction: BaO
+0 Welding: BeC2
+0 Solvents: CaS2
+1 Fertilizer: Ca3(PO4)2
+1 Humidity control: CaCl2
+1 X-ray windows: Be
+1 Sports Medicine: Mg
+1 Steel-like alloys: Be in alloys based on Cu
+1 Durable and lightweight alloys: Mg in alloys based on Al
+
+In connection with the group 15 elements (N, P, As, Sb, Bi):
+0 N is used for matches
+1 P is used for matches
+0 P has applications in surface treatment - phosphing
+1 N has applications in surface treatment - nitring
+0 N and P and their compounds are toxic to biological organisms
+1 As and Sb and their compounds are toxic to biological organisms
+0 Bi is used in fertilizers: BiH4BiO3
+1 N is used in fertilizers: NH4NO3
+0 As and Sb sustain life (As: enzymes, proteins; Sb: nerve tissue, bone, cell cytoplasm)
+1 N and P sustain life (N: enzymes, proteins; P: nerve tissue, bone, cell cytoplasm) 
+
+In connection with elements from group 16 (S, Se, Te, Po):
+0 Are living organisms based on Te
+0 Are living organisms based on Se
+1 Are living organisms based on S
+0 S + H2 → H6S
+1 S + H2 → H2S
+0 O2 + F2 → OF6
+0 S + F2 → SF2
+1 O2 + F2 → OF2
+1 S + F2 → SF6
+0 Te has over 30 allotropes (Te2, Te3, Te4, Te5, Te6, Te7, Te8, Te9, ...)
+0 Se has over 30 allotropes (Se2, Se3, Se4, Se5, Se6, Se7, Se8, Se9, ...)
+1 S has over 30 allotropes (S2, S3, S4, S5, S6, S7, S8, S9, ...) 
+
+Identify which oxidation states are correctly given for Chlorine:
+0 Cl2 => Cl: +1
+1 Cl2 => Cl: 0
+0 Cl2 => Cl: -1
+1 HClO => Cl: +1
+0 HClO => Cl: -1
+0 HCl => Cl: +1
+1 HClO4 => Cl: +7
+1 HCl => Cl: -1
+
+In connection with halogens (X: F, Cl, Br, I, At):
+0 F is the most electropositive element
+1 F is the most electronegative element
+0 S + Cl2→ SCl61 S + F2→ SF6
+0 X2 + X'2→ XX'6 (X=I, X'=F)
+1 X2 + X'2→ XX'7 (X=I, X'=F)
+0 X2 + X'2→ XX'4 (X=Br, X'=F)
+1 X2 + X'2→ XX'5 (X=Br, X'=F)
+0 X2 + X'2→ XX'2 (X=Cl, X'=F)
+1 X2 + X'2→ XX'3 (X=Cl, X'=F)
+
+In connection with rare gases (He, Ne, Ar, Kr, Xe, Rn):
+0 Xe is used in weather balloons
+1 He is used in weather balloons
+0 132Xe is used in cryogenics
+1 3He is used in cryogenics
+0 Xe behave similar to H2
+1 Xe behave similar to O2
+0 O2(g) + PtH6(g) → Xe[PtH6](s)
+0 Xe(g) + PtH6(g) → Xe[PtH6](s)
+1 O2(g) + PtF6(g) → Xe[PtF6](s)
+1 Xe(g) + PtF6(g) → Xe[PtF6](s) 
+
+In connection with the transitional elements of the 4th period (Sc: 3d14s2, Ti: 3d24s2, V: 3d34s2, Cr: 3d54s1, Mn: 3d54s2, Fe: 3d64s2, Co: 3d74s2, Ni: 3d84s2, Cu: 3d104s1, Zn: 3d104s2):
+1 Can form complexes with unusual oxidation states (zero or negative) such as (Fe(C5H5)2, Cr(CO)6, Mo(CO)6 si V(CO)6-
+0 Zn may have 6 positive oxidation numbers: Zn2+, Zn3+, Zn4+, Zn5+, Zn6+, Zn7+ (Zn(NO2)2, ZnPO4, (Zn(NO3)4, K3ZnO4, K2ZnO4, KZnO4)
+1 Mn may have 6 positive oxidation numbers: Mn2+, Mn3+, Mn4+, Mn5+, Mn6+, Mn7+ (Mn(NO2)2, MnPO4, (Mn(NO3)4, K3MnO4, K2MnO4, KMnO4)
+0 Ti may have 6 positive oxidation numbers: Ti1+, Ti2+, Ti3+, Ti4+, Ti5+, Ti6+ (TiH, TiSO4, TiB, TiCl4, TiF5, TiO2F2)
+1 Cr may have 6 positive oxidation numbers: Cr1+, Cr2+, Cr3+, Cr4+, Cr5+, Cr6+ (CrH, CrSO4, CrB, CrCl4, CrF5, CrO2F2)
+0 One element - V - can have oxidation number +7 (V+7)
+0 One element - Cr - can have oxidation number +7 (Cr2O72-)
+1 One element - Mn - can have oxidation number +7 (MnO4-)
+0 With one exception (Cu) these can have oxidation number +3 (ions Sc3+, Ti3+, V3+, Cr3+, Mn3+, Fe3+, Co3+, Ni3+, Zn3+)
+1 With one exception (Zn) these can have oxidation number +3 (ions Sc3+, Ti3+, V3+, Cr3+, Mn3+, Fe3+, Co3+, Ni3+, Cu3+)
+0 All off these can have oxidation number +3 (ions Sc3+, Ti3+, V3+, Cr3+, Mn3+, Fe3+, Co3+, Ni3+, Cu3+, Zn3+)
+1 All off these can have oxidation number +2 (ions Sc2+, Ti2+, V2+, Cr2+, Mn2+, Fe2+, Co2+, Ni2+, Cu2+, Zn2+)
+0 Of these Sc can have oxidation number +1 (Sc1+ ion)
+1 Of these Cr and Cu can have oxidation number +1 (ions Cr1+ and Cu1+) 
+
+In connection with the transitional elements:
+0 Mercury is bioaccumulant because its concentration ([Hg]) in ecosystems tends to evolve inthe progression: [Hg]water ~ 500·[Hg]plankton; [Hg]plankton ~ 20·[Hg]minnow; [Hg]minnow ~5·[Hg]pike; [Hg]pike ~ 60·[Hg]eagle
+1 Mercury is bioaccumulant because its concentration ([Hg]) in ecosystems tends to evolve inthe progression: [Hg]plankton ~ 500·[Hg]water; [Hg]minnow ~ 20·[Hg]plankton; [Hg]pike ~5·[Hg]minnow; [Hg]eagle ~ 60·[Hg]pike
+0 FeO (iron white) is used as pigment
+1 ZnO (zinc white) is used as pigment
+1 Mg is present in chlorophyll
+0 Fe is present in chlorophyll
+0 Mg is present in myoglobin and haemoglobin
+1 Fe is present in myoglobin and haemoglobin
+0 Rh is about 2 times less spread than Ir, Ru is about 2 times less spread than Rh, Os is about 2times less spread than Ru, Pt is about 1.5 times less spread than Os, and Pd is about 1.5 timesless spread than Pt
+1 Pt is about 2 times less spread than Pd, Os is about 2 times less spread than Pt, Ru is about 2times less spread than Os, Rh is about 1.5 times less spread than Ru, and Ir is about 1.5 timesless spread than Rh
+0 Co is about 700 times less spread than Pd, Ni is about 3 times less spread than Co, Fe is about 5000 times less spread than Ni
+1 Ni is about 700 times less spread than Fe, Co is about 3 times less spread than Ni, Pd is about 5000 times less spread than Co
+
+In connection with the transitional elements:
+0 Al alloys with the addition of Mg are used for beverage pots
+1 Al alloys with the addition of Mn are used for beverage pots
+0 The Cr-W-Co-C super hard high-speed tool steel is a Al-based alloy
+1 The Cr-W-Co-C super hard high-speed tool steel is a Fe-based alloy
+0 Zr2O is a good catalyst for oxidation reactions (such as for obtaining of H2SO4 - catalyst for oxidation of SO2 to SO3)
+1 V2O5 is a good catalyst for oxidation reactions (such as for obtaining of H2SO4 - catalyst for oxidation of SO2 to SO3)
+0 Approximately 10% of current production of titanium is used in the construction of supersonic aircrafts and spaceships
+1 Approximately 90% of current production of titanium is used in the construction of supersonic aircrafts and spaceships
+0 Zinc alloy with 6% Al and 4% V has good mechanical properties and is used for gas tanks (H2, O2, F2) and missiles
+1 Titanium alloy with 6% Al and 4% V has good mechanical properties and is used for gas tanks (H2, O2, F2) and missiles
+0 Ti, Zr and Hf are very few resistant to chemical agents at moderate temperatures due to the formation of unproductive oxide layer on the surface
+1 Ti, Zr and Hf are very resistant to chemical agents at moderate temperatures due to the formation of a protective oxide layer on the surface
+0 Lutetium tantalate (LuTa4) is the densest known stable white material (9.81 g/cm3)
+1 Lutetium tantalate (LuTaO4) is the densest known stable white material (9.81 g/cm3)
+
+In connection with lanthanides and actinides:
+0 In nuclear reactions mass is converted into energy (∆E=c2·∆m)
+1 Mass is conserved in nuclear reactions (∆m = 0)
+0 The isotope of U with Z = 92 and A = 135 has applications in energy production
+1 The isotope of U with Z = 92 and A = 235 has applications in energy production
+0 Examples of combinations of uranium are UH6, UO4, UF7, UF8
+1 Examples of combinations of uranium are UH3, UO2, UF5, UF6
+0 Lanthanides have applications in metallurgy, cosmetics and medical recovery
+1 Lanthanides have applications in supraconductibility, magnetics and optoelectronics
+0 Lanthanides (Ln) forms in reaction with oxygen compounds in LnO2 form excepting Cerium (Ce2O3)
+1 Lanthanides (Ln) forms in reaction with oxygen compounds in Ln2O3 form, excepting Cerium (CeO2)
+1 Are difficult to separate lanthanides
+0 Are easy to separate lanthanides
+0 Lanthanides have very different chemical and electrochemical properties
+1 Lanthanides have very similar chemical and electrochemical properties
+0 Lanthanides tend to form 1+ ions
+0 Lanthanides tend to form 2+ ions
+1 Lanthanides tend to form 3+ ions 
+
+In connection with the elements of group 13 (B, Al, Ga, In, Tl) and 14 (C, Si, Ge, Sn, Pb):
+0 Length of covalent bonds decreases with decreasing electronegativity and bond order
+0 Length of covalent bonds increases with increasing electronegativity and bond order
+1 Length of covalent bonds increases with decreasing electronegativity and bond order
+1 Length of covalent bonds decreases with increasing electronegativity and bond order
+0 Group 13 gives compounds with covalent bonds MX (BF, AlCl) which are in excess of electrons
+1 Group 13 gives compounds with covalent bonds MX3 (BF3, AlCl3) which are deficient in electrons 
+
+In connection with the elements of group 13 (B, Al, Ga, In, Tl) and 14 (C, Si, Ge, Sn, Pb):
+0 Silicone has the skeleton of carbon oxide and silicyl groups (-SiH3) endings
+1 Silicone has the skeleton of silicon oxide (-(>)Si-O-(>)Si-O-(>)Si-) and methyl groups (-CH3) endings
+0 Silicium tends to polymerize (...-Si-Si-Si-...)
+0 Carbon dioxide tends to polymerize (...-O-C(O-)2-O-...)
+1 Silicium dioxide tends to polymerize (...-O-Si(O-)2-O-...)
+1 The carbon tends to polymerize (...-C-C-C-...)
+0 The carbon tends to form cycles of 3, 4 and 5 atoms
+1 The carbon tends to form cycles of 5, 6 and 7 atoms
+
+In connection with compounds of the carbon:
+1 H3C-O-CH3 is an ether and H3C-S-CH3 is a thiol
+1 HCOOH and CH3COOH are acids
+0 HCOOH and CH3COOH are alcohols
+0 CH3OH and CH3CH2OH are acids
+1 CH3OH and CH3CH2OH are alcohols
+0 Haloalkanes have the general structure R-H, where H is hydrogen
+1 Haloalkanes have the general structure R-X, where X is halogen
+0 Alkanes have the molecular formula CnH2n (ex. CH2)
+1 Alkanes have the molecular formula CnH2n+2 (ex. CH4) 
+
+In connection with compounds of the carbon:
+0 Fullerenes, nanotubes and nanofoams are allotropes of silicium
+1 Fullerenes, nanotubes and nanofoams are allotropes of carbon
+0 H-(CO)-N(CH3)2 is an amine and N(CH3)3 is an amide
+1 H-(CO)-N(CH3)2 is an amide and N(CH3)3 is an amine
+0 HC3-(CO)-H is a ketone and HC3-(CO)-CH3 is an aldehyde
+1 HC3-(CO)-H is an aldehyde and HC3-(CO)-CH3 is a ketone
+0 H2C=CH2 is an alkyne and an alkene is HC≡CH
+1 H2C=CH2 is an alkene and an alkyne is HC≡CH
+0 H3C-O-CH3 is a thiol and H3C-S-CH3 is an ether
+
+In connection with ceramics:
+0 Are designed to possess usual electrical, magnetic and thermal properties
+1 Are designed to possess special electrical, magnetic and thermal properties
+0 Are designed for applications of high elasticity
+1 Are designed for high voltage applications
+0 Contain compounds of metals with cerium
+0 Contain compounds of metals with fluorine
+0 Contain compounds of metals with helium
+0 Contain compounds of metals with hydrogen
+1 Contain compounds of metals with silicon
+1 Contain compounds of metals with boron
+1 Contain compounds of metals with nitrogen
+1 Contain compounds of metals with oxygen
+
+In connection with insulators, semiconductors, conductors and superconductors:
+0 Superconductor at high temperature is HgBa2Ca2Cu3O8 since TS = 134 °C
+1 Superconductor at high temperature is HgBa2Ca2Cu3O8 since TS = 134 K
+0 Superconductivity disappears when it falls below a certain temperature
+1 Superconductivity disappears when it exceeds a certain temperature
+0 Superconductivity appears at high temperatures
+1 Superconductivity occurs at low temperatures
+0 In conductors the conduction band and the valence band are totally stacked
+0 In semiconductors the conduction band and the valence band are apart
+0 In insulators the conduction band and the valence band are close
+1 In conductors the conduction band and the valence band are partially overlapped
+1 In semiconductor the conduction band and the valence band are close
+1 In insulators the conduction band and the valence band are apart 
+
+In connection with polymers:
+1 Teflon is a synthetic polymer
+0 Teflon is a natural polymer
+1 Polystyrene is a synthetic polymer
+0 Polystyrene is a natural polymer
+0 The peptides are synthetic polymers
+1 The peptides are natural polymers
+0 Cellulose is a synthetic polymer
+1 Cellulose is a natural polymer 
+
+In connection with the types of chemical reactions:
+1 AB + CD → AD + CB defines a displacement
+0 AB + CD → AD + CB defines a decomposition
+0 AB → A + B defines a displacement
+1 AB → A + B defines a decomposition
+1 A + B → AB defines a synthesis
+0 A + B → AB defines a rearrangement
+0 A → B defines a synthesis
+1 A → B defines a rearrangement 
+
+Determine if processes are properly defined by the chemical reactions:
+1 Dissociation: MgCl2(aq) <=> Mg2+(aq) + 2Cl-(aq)
+0 Reaction: MgCl2(aq) <=> Mg2+(aq) + 2Cl-(aq)
+0 Dissociation: MgO(s) + 2HCl(aq) => MgCl2(aq) + H2O(l)
+1 Reaction: MgO(s) + 2HCl(aq) => MgCl2(aq) + H2O(l)
+1 Dissociation: NaOH(aq) <=> Na+(aq) + HO-(aq)
+0 Dissolving: NaOH(aq) <=> Na+(aq) + HO-(aq)
+0 Dissociation: NaOH(s) => NaOH(aq)
+1 Dissolving: NaOH(s) => NaOH(aq) 
+
+In connection with the ions dissolved in water:
+1 K+ is surrounded by 6 molecules of H2O
+1 Na+ is surrounded by 5 molecules of H2O
+0 Li+ is surrounded by 6 molecules of H2O
+0 Li+ is surrounded by 5 molecules of H2O
+1 Li+ is surrounded by 4 molecules of H2O
+0 Cl- is surrounded by 6 molecules of H2O
+1 Cl- is surrounded by 5 molecules of H2O
+0 F- is surrounded by 5 molecules of H2O
+1 F- is surrounded by 6 molecules of H2O
+0 NH4+ is surrounded by 5 molecules of H2O
+0 NH4+ is surrounded by 3 molecules of H2O
+1 NH4+ is surrounded by 4 molecules of H2O
+
+9

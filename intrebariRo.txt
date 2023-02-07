@@ -1,0 +1,726 @@
+După punctul de topire, elementele chimice pot fi ordonate după cum urmează:
+0 Cr < Fe < Al < Mg
+0 Rn < Xe < Kr < Ar < Ne < He
+0 W < Re < Os < Ta
+0 C < N < O < F < Ne
+0 C < B < Be < LI < He < H
+1 Mg < Al < Fe < Cr
+1 He < Ne < Ar < Kr < Xe < Rn
+1 Ta < Os < Re < W
+1 Ne < F < O < N < C
+1 H < He < Li < Be < B < C
+
+După densitatea în stare solidă, elementele chimice pot fi ordonate după cum urmează:
+0 Cu < Fe < Al < Mg
+0 Rn < Xe < Kr < Ar < Ne < He
+0 Ir < Os < Pt < Re < Au < W
+0 F < O < N
+0 B < C < N
+0 B < Be < Li < He < H
+1 Mg < Al < Fe < Cu
+1 He < Ne < Ar < Kr < Xe < Rn
+1 W < Au < Re < Pt < Os < Ir
+1 N < O < F
+1 N < C < B
+1 H < He < Li < Be < B
+
+După primul potenţial de ionizare, elementele chimice pot fi ordonate după cum urmează:
+0 N < O
+0 He < Ne < Ar < Kr < Xe < Rn
+0 H < Li < Na < K
+0 F < Cl < Br < I
+0 He < H
+1 O < N
+1 Rn < Xe < Kr < Ar < Ne < He
+1 K < Na < Li < H
+1 I < Br < Cl < F
+1 H < He 
+
+După electronegativitate, elementele chimice pot fi ordonate după cum urmează:
+0 Ni < Co < Fe < Mn
+0 O < Cl < N < S < C < P < H
+0 H < Li < Na < K < Rb < Cs < Fr
+0 F < Cl < Br < I < At
+0 F < O < N < C < B < Be < Li
+1 Mn < Fe < Co < Ni
+1 H < P < C < S < N < Cl < O
+1 Fr < Cs < Rb < K < Na < Li < H
+1 At < I < Br < Cl < F
+1 Li < Be < B < C < N < O < F
+
+Care dintre următoarele sunt configuraţiile electronice ale elementelor chimice:
+0 Ar (Z=18): 1s2 2s2 2p6 3s2 3p4
+1 Ar (Z=18): 1s2 2s2 2p6 3s2 3p6
+0 Hg (Z=80): 1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 4f14 5s2 5p6 5d10 5f14 5g18 6s2
+1 Hg (Z=80): 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10
+0 Ag (Z=47): 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d9
+1 Ag (Z=47): 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s1 4d10
+0 C (Z=8): 1s2 2s2 2p6
+1 C (Z=8): 1s2 2s2 2p4
+0 C (Z=6): 1s2 2s2 2p2
+
+Identificaţi care clasificări sunt corect date pentru combinaţiile chimice:
+0 H2SO4 - cuaternară
+1 H2SO4 - heteroatomică
+0 H2SO4 - homoatomică
+1 H2O - binară
+0 H2O - homoatomică
+1 H2O - heteroatomică
+0 O2 - binară
+1 O2 - homoatomică
+
+Elementele chimice sunt ordonate după abundenţă în galaxie după cum urmează:
+0 N > C
+0 C > O
+0 O > He
+0 He > H
+1 C > N
+1 O > C
+1 He > O
+1 H > He
+
+Când se discută despre efectele atmosferei asupra radiaţiei solare, ar trebui să ştim că:
+1 Atmosfera absoarbe o parte a radiaţiei solare
+0 Spectrul vizibil al radiaţiei electromagnetice se termină la 390 nm
+0 Spectrul vizibil al radiaţiei electromagnetice porneşte de la 750 nm
+1 Spectrul vizibil al radiaţiei electromagnetice este cuprins între 390 nm şi 750 nm
+0 Partea vizibilă a radiaţiei solare oferă o medie de 561 nm (galben deplasat spre verde) la suprafaţa pământului
+0 Partea vizibilă a radiaţiei solare oferă o medie de 573 nm (galben deplasat spre rosu) la intrarea în atmosferă
+1 Partea vizibilă a radiaţiei solare oferă o medie de 573 nm (galben deplasat spre rosu) la suprafaţa pământului
+1 Partea vizibilă a radiaţiei solare oferă o medie de 561 nm (galben deplasat spre verde) la intrarea în atmosferă
+
+Compoziţia atmosferei rămâne neschimbată până la:
+0 1000000 m
+0 1000 km
+0 106 m
+0 10000 m
+0 10 km
+0 104 m
+1 100000 m
+1 100 km
+1 105 m 
+
+Stratul atmosferic limită planetar are:
+0 ~ 20 km
+0 O2 (78%), N2 (21%), Altele (1%)
+0 Oxigen (78%), Siliciu (21%), Altele (1%)
+0 Siliciu (78%), Oxigen (21%), Altele (1%)
+0 Oxigen (78%), Azot (21%), Altele (1%)
+1 ~ 2 km
+1 N2 (78%), O2 (21%), Altele (1%)
+1 Azot (78%), Oxigen (21%), Altele (1%)
+1 Stare de agregare gazoasă
+
+Când se analizează măsurătorile proprietăţilor atmosferei, se poate vedea că:
+0 În atmosfera superioară există o parte în care hidrogenul atomic (H) este majoritar
+1 În atmosfera superioară există o parte în care oxigenul atomic (O) este majoritar
+0 Domeniul biosferei din atmosferă este corelat cu modificari minore în densitate (ρ) şi presiune (p)
+1 Domeniul biosferei din atmosferă este corelat cu modificări minore în temperatură (T) şi viteza termică (vT)
+0 Domeniul biosferei din atmosferă este corelat cu modificari minore în masa molară (MM) şi volumul molar (VM)
+0 Una dintre densitate (ρ) şi presiune (p) poartă informaţii despre compoziţia atmosferei
+0 Una dintre temperatură (T) şi viteza termică (vT) poartă informaţii despre compoziţia atmosferei
+1 Una dintre masa molară (MM) şi volumul molar (VM) poartă informaţii despre compoziţia atmosferei 
+
+Atunci când se analizează compoziţia solului vegetal, se vede că:
+0 Partea solidă (mineral + organic) din acesta este mult mai puţin decât jumătate
+0 Partea fluidă (aer + apă) din acesta este mult mai puţin decât jumătate
+0 Partea solidă (mineral + organic) din acesta este mult mai mult decât jumătate
+0 Partea fluidă (aer + apă) din acesta este mult mai mult decât jumătate
+1 Partea solidă (mineral + organic) din acesta este aproximativ jumătate
+1 Partea fluidă (aer + apă) din acesta este aproximativ jumătate
+0 Partea minerală a acestuia este mai mult de jumătate
+1 Partea minerală a acestuia este mai puţin de jumătate
+
+După numărul de moli elementele cele mai răspândite în crustă sunt:
+0 O, Na, H, Cl, S, Ca, Si (O > Na > H > Cl > S > Ca > Si)
+0 Si, Al, Fe, Na, Cu, Zn (Si > Al > Fe > Cu > Na > Zn)
+0 Si, Al, Fe, Cu, Zn (Si > Al > Fe > Cu > Zn)
+0 Si, Al, Fe, Cu (Si > Al > Fe > Cu)
+0 Si, Fe, Al (Si > Fe > Al)
+1 O, Si, Al (O > Si > Al)
+1 O, Si, Al, H (O > Si > Al > H)
+1 O, Si, Al, H, Na (O > Si > Al > H > Na)
+1 O, Si, Al, H, Na, Ca (O > Si > Al > H > Na > Ca
+1 O, Si, Al, H, Na, Ca, Fe (O > Si > Al > H > Na > Ca > Fe)
+
+În ceea ce priveşte spaţiul de observare:
+0 Compuşii chimici au structură chimică duplicitară şi nu este bine definită
+1 Compuşii chimici au structură chimică unică şi bine definită
+0 Substantele omogene au o compoziţie chimică variabilă
+1 Substantele omogene au o compoziţie chimică constantă
+0 Amestecurile de substanţe nu au compoziţie chimică
+1 Amestecurile de substanţe au o compoziţie bine definită
+0 Materialele nu au compoziţie chimică
+1 Materialele au compoziţia chimică variabilă şi continuă
+0 Ansamblurile de materiale au compoziţia chimică constantă şi continuă
+1 Ansamblurile de materiale au compoziţia chimică variabilă şi discontinuă
+0 Un corp are o viteză comparabilă cu lumina
+1 Un corp are o viteză mult mai mică decât lumina
+0 Materia este întregul spaţiu observabil relativistic
+1 Materia este întregul spaţiu observabil non relativistic
+0 Radiaţiile beta şi gamma sunt diferenţiate prin viteză
+1 Radiaţiile beta şi gamma sunt diferenţiate prin proprietăţi
+0 Energia radiantă are viteza comparabilă cu sunetul
+1 Energia radiantă are viteza comparabilă cu lumina 
+
+În legătură cu un şir de măsuratori repetate:
+1 Dacă scala de masură este ordinală atunci tendinţa este dată de mediană
+0 Dacă scala de masură este interval atunci înmulţirea valorilor are sens
+1 Dacă scala de masură este raport atunci înmulţirea valorilor are sens
+1 Dacă scala de măsură este interval sau raport atunci tendinţa este dată de valoarea medie
+0 Dacă scala de masură este ordinală atunci tendinţa este dată de valoarea medie
+0 Dacă scala de măsură este ordinală atunci tendinţa este dată de valoarea la modă
+0 Dacă scala de măsură este multinomială (multinominală) atunci tendinţa este dată de valoarea medie
+1 Dacă scala de masură este multinomială (multinominală) atunci tendinţa este dată de valoarea la modă
+0 Dacă scala de masură este binară (binomială) atunci tendinţa este dată de valoarea medie
+1 Dacă scala de măsură este binară (binomială) atunci tendinţa este dată de valoarea la modă
+
+Analiza factorială:
+0 Necesită transformarea variabilelor multinomiale la variabile ordinale
+1 Necesită transformarea variabilelor multinomiale la variabile binare
+0 Poate fi incompletă, caz în care sunt incluse în experiment toate variantele posibile
+0 Permite stabilirea unor inecuaţii între variabile cantitative şi variabile cantitative
+0 Poate fi completă, caz în care explică partial fenomenul supus experimentului
+1 Poate fi completă, caz în care explică în întregime fenomenul supus experimentului
+1 Poate fi completă, caz în care sunt incluse în experiment toate variantele posibile
+0 Nu necesită proiectarea experimentului
+1 Necesită proiectarea experimentului
+1 Permite stabilirea unor relaţii între variabile calitative şi variabile cantitative
+
+Compoziţia chimică:
+0 Variază când se trece de la o stare de agregare la alta
+0 Este bine definită pentru un material
+1 Este bine definită pentru o substanţă pură
+0 Este incomplet definită de formula empirică
+1 Este complet definită de formula empirică
+1 Defineşte o clasă de compuşi chimici care au în comun acelasi raport de combinare al fiecărui element
+0 Defineşte în mod unic un compus chimic
+1 Este definită prin raportul de combinare al fiecărui element în compus
+
+Aproape toate elementele există în natură numai sub formă de combinaţii. Excepţii sunt:
+0 F
+0 Ca
+0 K
+0 Na
+0 N
+0 Ni
+1 Pt
+1 Ag
+1 Au
+1 Ar
+1 Ne
+1 He 
+
+Formulele chimice sunt:
+0 Formulele integrale
+0 Formulele iraţionale
+0 Formulele de calcul
+1 Formulele structurale
+1 Formulele raţionale
+0 Formulele molare
+1 Formulele moleculare
+1 Formulele brute (empirice)
+
+În legătură cu formula empirică, moleculară, raţională şi structurală:
+0 Compuşi cu diferite formule moleculare pot avea aceeaşi formulă structurală
+1 Compuşi cu diferite formule structurale pot avea aceeaşi formulă moleculară
+0 Compuşi cu diferite formule empirice pot avea aceeaşi formulă structurală
+1 Compuşi cu diferite formule structurale pot avea aceeaşi formulă empirică
+0 Compuşi cu diferite formule empirice pot avea aceeaşi formulă raţională
+1 Compuşi cu diferite formule rationale pot avea aceeaşi formulă empirică
+0 Compuşi cu diferite formule moleculare pot avea aceeaşi formulă structurală
+1 Compuşi cu diferite formule structurale pot avea aceeaşi formulă moleculară
+0 Compuşi cu diferite formule moleculare pot avea aceeaşi formulă raţională
+1 Compuşi cu diferite formule raţionale pot avea aceeaşi formulă moleculară
+0 Compuşi cu diferite formule empirice pot avea aceeaşi formulă moleculară
+1 Compuşi cu diferite formule moleculare pot avea aceeaşi formulă empirică
+
+Exemple tipice de minerale pe clase de minerale sunt:
+0 Nichelaţi: NaNO3, KNO3
+0 Oxizi şi hidroxizi: CaCO3, MgCO3, CaCO3·MgCO3, Cu2(CO3)(OH)2
+1 Carbonaţi: CaCO3, MgCO3, CaCO3·MgCO3, Cu2(CO3)(OH)2
+1 Oxizi şi hidroxizi: Al2O3, AlO(OH), Al(OH)3
+0 Seleniuri: FeS2, PbS, ZnS, HgS, CuS, Sb2S3, Bi2S3, MoS2, CuFeS2, NiAs, CoAsS
+1 Sulfuri şi arseniuri: FeS2, PbS, ZnS, HgS, CuS, Sb2S3, Bi2S3, MoS2, CuFeS2, NiAs, CoAsS
+0 Halogenuri: FeS2, PbS, ZnS, HgS, CuS, Sb2S3, Bi2S3, MoS2, CuFeS2, NiAs, CoAsS
+1 Halogenuri: NaCl, KCl, CaF2, KCl·MgCl2·6H2O
+0 Fosile: Diamant, carbune, S, Au, Ag, Cu, Pt, Pd
+1 Native: Diamant, carbune, S, Au, Ag, Cu, Pt, Pd 
+
+Identificaţi răspunsurile corecte:
+0 Fe2SO2(F,OH)2 este topaz
+1 Al2SiO4(F,OH)2 este topaz
+0 Sticla este o formă de Al2O3
+1 Cuartul este o formă de SiO2
+0 Cuartul este o formă de Al2O3
+1 Safirul şi rubinul conţin în cea mai mare parte Al2O3
+1 Corindonul este o formă de Al2O3
+0 Be3Al2(SiO3)6 este boran
+1 Be3Al2(SiO3)6 este beril
+0 MHg2Si3O10·2H2O (M = Na2, K2, Ca, Mg) sunt zeoliţi
+0 MAl2S3O10·2H2O (M = Na2, K2, Ca, Mg) sunt zeoliţi
+1 MAl2Si3O10·2H2O (M = Na2, K2, Ca, Mg) sunt zeoliţi
+
+Pentru reacţia H2 + O2 → H2O:
+1 Este posibil ca: H2(g) + O2(g) → H2O(g)
+1 Este posibil ca: H2(g) + O2(g) → H2O(l)
+0 H2O este reactant
+1 H2O este produs de reacţie
+1 H2 şi O2 reactanţi
+0 H2 şi O2 sunt produşi de reacţie
+0 Coeficienţii corecţi sunt 1 (H2), 2 (O2), 2 (H2O)
+0 Coeficienţii corecţi sunt 1 (H2), 1 (O2), 1 (H2O)
+0 Coeficienţii corecţi sunt 1 (H2), 2 (O2), 1 (H2O)
+1 Coeficienţii corecţi sunt 2 (H2), 1 (O2), 2 (H2O)
+
+Care dintre următoarele se aplică în stabilirea coeficienţilor unei reacţii chimice:
+1 Coeficienţii sunt cele mai mici numere naturale care verifică conservarea numărului de atomi
+0 Legea transformarii masei în energie
+0 Numărul total de protoni daţi de atomi este egal cu numărul total de protoni luaţi de atomi
+0 Numărul total de neutroni daţi de atomi este egal cu numărul total de neutroni luaţi de atomi
+1 Numărul total de electroni daţi de atomi este egal cu numărul total de electroni luaţi de atomi
+1 Pentru fiecare tip de atomi suma numărului total de atomi ai reactanţilor este egală cu suma
+numărului total de atomi ai produşilor de reacţie
+0 Legea conservării numărului de neutroni
+0 Legea conservării numărului de protoni
+1 Legea conservării numărului de electroni
+1 Legea conservării numărului de atomi 
+
+În legătură cu ionii hidrogenului:
+0 Cea mai probabilă valoare a lui n în (H2O)nH+ este 8
+1 Cea mai probabilă valoare a lui n în (H2O)nH+ este 4
+0 În amoniac ionii H- se stabilizează devenind NH4-
+1 În amoniac ionii H+ se stabilizează devenind NH4+
+0 În apă ionii H- se stabilizează devenind (H2O)nH1 În apă ionii H+ se stabilizează devenind (H2O)nH+
+0 Ionii H- sunt foarte puţin reactivi
+1 Ionii H- sunt foarte reactivi
+1 Ionii H- sunt instabili
+0 Ionii H- sunt stabili
+0 Ionii H+ sunt foarte puţin reactivi
+1 Ionii H+ sunt foarte reactivi
+1 Ionii H+ sunt instabili
+0 Ionii H+ sunt stabili
+
+În legătură cu izotopii hidrogenului:
+0 p este radioactiv având T1/2 = 12.26 ani
+0 D este radioactiv având T1/2 = 12.26 ani
+1 T este radioactiv având T1/2 = 12.26 ani
+0 3*M(T) = 2*M(D)
+0 3*M(T) = M(p)
+0 2*M(D) = M(p)
+1 2*M(T) = 3*M(D)
+1 M(T) = 3*M(p)
+1 M(D) = 2*M(p)
+0 T = 3015H este tritiu
+0 D = 2010H este deuteriu
+0 p = 105H este protiu
+1 T = 31H este tritiu
+1 D = 21H este deuteriu
+1 p = 11H este protiu
+
+Reacţiile hidrogenului cu nemetale:
+0 H2 + X2 → HX2
+0 H2 + X2 → H2X
+1 H2 + X2 → HX
+1 H2 + O2 → OH2
+0 H2 + S8 → SH4
+1 H2 + S8 → SH2
+0 H2 + N2 → N2H3
+1 H2 + N2 → NH3
+0 H2 + P4 → P4H3
+1 H2 + P4 → PH3
+0 H2 + C → CH2
+1 H2 + C → CH4
+0 H2 + Si → SiH2
+1 H2 + Si → SiH4
+0 H2 + F2 → H2F2
+1 H2 + F2 → HF
+
+Reacţiile hidrogenului cu metale:
+0 H2 + Na → NaH2
+0 H2 + Na → Na2H
+1 H2 + Na → NaH
+1 H2 + Ca → CaH2
+0 H2 + Ca → Ca2H
+0 H2 + Ca → CaH
+1 H2 + Mg → MgH2
+0 H2 + Mg → Mg2H
+0 H2 + Mg → MgH
+0 H2 + Li → LiH2
+0 H2 + Li → Li2H
+1 H2 + Li → LiH
+
+Caracterul reducător al hidrogenului se manifestă în:
+1 H2 + Li + Al → LiAlH4
+0 y/2H2 + MXy → MH + X2
+1 y/2H2 + MXy → M + yHX
+0 H2 + M2Oy → 2MH + y/2O2
+1 H2 + M2Oy → 2M + yH2O
+0 H2 + HC≡CH → H2C-CH2
+0 H2 + HC≡CH → H4C-CH4
+1 H2 + HC≡CH → H3C-CH3
+0 H2 + H2C=CH2 → HC≡CH
+1 H2 + H2C=CH2 → H3C-CH3
+0 H2 + H2C=O → CO2 + H2O
+1 H2 + H2C=O → H3C-OH
+
+Oxigenul:
+0 Este ~5% din crustă (~4.7%masa, ~6%at)
+1 Este ~50% din crustă (~47%masa, ~60%at)
+0 Este ~10%masa din apă
+1 Este ~90%masa din apă
+0 Este ~80%vol din aer
+1 Este ~20%vol din aer
+0 Este un element relativ puţin răspândit în mediul înconjurator (~5%)
+1 Este elementul cel mai răspândit în mediul înconjurator (~50%)
+0 Este primul element după electronegativitate, înaintea fluorului
+1 Este al doilea element după electronegativitate, după fluor
+0 Este al doilea element din grupa 16
+1 Este primul element din grupa 16 
+
+Oxigenul se găseşte în:
+0 Una dintre cele 2 stări izotopice ale sale: 7O şi 8O
+1 Una dintre cele 3 stări izotopice ale sale: 16O, 17O, şi 18O
+0 În părţile mijlocii ale atmosferei (stratosferă, mezosferă) ca molecule homoatomice de tetraoxigen (O4)
+1 În părţile mijlocii ale atmosferei (stratosferă, mezosferă) ca molecule homoatomice de trioxigen (O3)
+1 În părţile inferioare ale atmosferei (stratul limită planetar şi troposfera), ca molecule homoatomice de dioxigen (O2)
+0 În părţile superioare ale atmosferei (termosferă şi exosferă), ca dioxigen homoatomic (O2)
+0 În părţile inferioare ale atmosferei (stratul limită planetar şi troposfera), în formă atomică (O)
+1 În părţile superioare ale atmosferei (termosferă şi exosferă), în formă atomică (O)
+0 În crustă, ca oxi-saruri: siliciuri, alumino-siliciuri, carburi, sulfuri, şi nitruri
+1 În crustă, ca oxi-saruri: silicati, alumino-silicati, carbonati, sulfati, nitrati, şi ca oxizi
+0 Apa oceanelor, acoperind 1/4 din suprafaţa Pământului
+1 Apa oceanelor, acoperind 3/4 din suprafaţa Pământului
+
+În legătură cu ozonul:
+0 Prezenta ozonului este de o importanţă vitală pentru protejarea suprafeţei Pământului cu privire la expunerea excesivă la radiaţii X
+1 Prezenta ozonului este de o importanţă vitală pentru protejarea suprafeţei Pământului de expunerea excesivă la radiaţii UV
+1 Cea mai mare concentraţie de ozon este la aproximativ 25000 m altitudine
+0 Cea mai mare concentraţie de ozon este la aproximativ 2500 m altitudine
+0 Cea mai mică concentraţie de ozon este la aproximativ 25 km altitudine
+1 Cea mai mare concentraţie de ozon este la aproximativ 25 km altitudine
+0 Actiunea radiaţiei IR pe O3 produce urme de O2 în exosferă
+1 Actiunea radiaţiei UV pe O2 produce urme de O3 în stratosferă
+
+În legătură cu producerea şi utilizarea oxigenului:
+0 Plantele verzi, folosind lumina fac: Cx(H2O)y + (x+y/2)O2 → xCO2 + yH2O
+0 Organismele ce respiră, producând energie fac: xCO2 + yH2O → Cx(H2O)y + (x+y/2)O2
+1 Organismele ce respiră, producând energie fac: Cx(H2O)y + (x+y/2)O2 → xCO2 + yH2O
+1 Plantele verzi, folosind lumina fac: xCO2 + yH2O → Cx(H2O)y + (x+y/2)O2
+0 4AlBr3 + 3O2 → 6Br2O + 4Al
+1 4AlBr3 + 3O2 → 6Br2 + 2Al2O3
+0 4HX + O2 → 2X2 + 2H2O, X = F
+1 4HX + O2 → 2X2 + 2H2O, X = Cl, Br, I
+0 Arderea cărbunilor fosili şi a hidrocarburilor este o sursă secundară de încălzire (~25% în 2014)
+1 Arderea cărbunilor fosili şi a hidrocarburilor este principala sursă de încălzire (~75% în 2014)
+0 Oxigenul poate fi obţinut din distilarea apei
+1 Oxigenul poate fi obţinut din distilarea aerului 
+
+În legătură cu compuşii ce conţin oxigen:
+0 HClF3 şi HClF4 sunt oxiacizi
+0 HCl şi HClF2 sunt oxiacizi
+0 HNO şi HNO4 sunt oxiacizi
+0 H2SO şi H2SO2 sunt oxiacizi
+1 HClO3 şi HClO4 sunt oxiacizi
+1 HClO şi HClO2 sunt oxiacizi
+1 HNO2 şi HNO3 sunt oxiacizi
+1 H2SO3 şi H2SO4 sunt oxiacizi
+0 unii dintre oxizii fosforului sunt: P3O2, P5O2, P10O4, (P9O4)3
+1 unii dintre oxizii fosforului sunt: P2O3, P2O5, P4O10, (P4O9)3
+0 unghiul între legăturile oxigenului creşte după cum urmează: -Si-O-Si- < H3C-O-CH3 < H-O- H
+1 unghiul între legăturile oxigenului creşte după cum urmează: H-O-H < H3C-O-CH3 < -Si-O- Si0 oxizii cu oxigen di-coordinat R-O-R au molecule liniare
+1 oxizii cu oxigen di-coordinat R-O-R au molecule unghiulare 
+
+În legătură cu H2O:
+1 La 25 °C şi 1 atm pKH2O = 14 şi pH = 7
+1 pKH2O = pH + pOH, unde pH = -log10([H+]) şi pOH = -log10([OH-])
+0 pKH2O = ln(KH2O), KH2O = [H3O+]·[HO-]/[H2O] 2 ~ [H3O+]·[HO-], unde [·] reprezintă concentraţtia (sau activitatea) molară
+0 pKH2O = log10(KH2O), KH2O = [H3O+]·[HO-]/[H2O] 2 ~ [H3O+]·[HO-], unde [·] reprezintă concentraţia (sau activitatea) molară
+1 pKH2O = -log10(KH2O), KH2O = [H3O+]·[HO-]/[H2O] 2 ~ [H3O+]·[HO-], unde [·] reprezintă concentraţia (sau activitatea) molară
+0 pH = ln([H+]), unde [·] reprezintă concentraţia (sau activitatea) molară
+0 pH = log10([H+]), unde [·] reprezintă concentraţia (sau activitatea) molară
+1 pH = -log10([H+]), unde [·] reprezintă concentraţia (sau activitatea) molară
+0 Produsul ionic al apei KH2O scade cu temperatura
+1 Produsul ionic al apei KH2O creşte cu temperatura
+0 Există 1 fază de gheaţă
+1 Au fost identificate nu mai puţin de 15 faze de gheaţă
+
+În legătură cu pH-ul:
+0 pH-ul apelor curgătoare este 7-8
+1 pH-ul apelor curgătoare este 6-7
+0 pH-ul ploilor acide este 5-6
+0 pH-ul precipitaţiilor normale este 1-5
+1 pH-ul ploilor acide este 1-5
+1 pH-ul precipitaţiilor normale este 5-6
+0 pH(lapte de var) < pH(apa oxigenată) < pH(praf de copt) < pH(apă de mare) < 7
+1 7 < pH(apă de mare) < pH(praf de copt) < pH(apa oxigenată) < pH(lapte de var)
+0 7 < pH(Cartofi) < pH(Banane) < pH(Tomate) < pH(Oţet) < pH(Lămâie) < pH(acid de baterie) < pH(HCl)
+1 pH(HCl) < pH(acid de baterie) < pH(Lămâie) < pH(Oţet) < pH(Tomate) < pH(Banane) < pH(Cartofi) < 7 
+
+Aplicaţiile metalelor alcaline includ:
+0 Fe-Cu în termometre lichide pentru temperaturi înalte (înlocuind Hg)
+1 Na-K în termometre lichide pentru temperaturi înalte (înlocuind Hg)
+0 RbCN şi CsCN în procese electrolitice
+0 Li în celule solare
+0 K în bateriile litiu-ion-polimer
+0 Li în detergenţi
+1 Na în detergenţi
+1 Li în bateriile litiu-ion-polimer
+1 Rb şi Cs în celule solare
+1 NaCN şi KCN în procese electrolitice 
+
+Aplicaţiile metalelor alcalino-pământoase includ:
+0 Medicale: HgO
+0 Construcţii: BaO
+0 Sudură: BeC2
+0 Solvenţi: CaS2
+1 Fertilizatori: Ca3(PO4)2
+1 Controlul umidităţii: CaCl2
+1 Ferestre pentru raze X: Be
+1 Medicina sportivă: Mg
+1 Aliaje similare oţelului: Be în aliaje pe bază de Cu
+1 Aliaje rezistente şi uşoare: Mg în aliaje pe bază de Al 
+
+În legătură cu elementele grupei 15 (N, P, As, Sb, Bi):
+0 N este utilizat pentru chibrituri
+1 P este utilizat pentru chibrituri
+0 P are aplicaţii în tratamentul suprafeţelor - fosfurare
+1 N are aplicaţii în tratamentul suprafeţelor - nitrurare
+0 N şi P şi compuşii acestora sunt toxici pentru organismele biologice
+1 As şi Sb şi compuşii acestora sunt toxici pentru organismele biologice
+0 Bi este utilizat în îngrasaminte: BiH4BiO3
+1 N este utilizat în îngrasaminte: NH4NO3
+0 As şi Sb susţin viaţa (As: enzime, proteine; Sb: ţesuturi nervoase, oase, citoplasma celulelor)
+1 N şi P susţin viaţa (N: enzime, proteine; P: ţesuturi nervoase, oase, citoplasma celulelor) 
+
+În legătură cu elemente ale grupei 16 (O, S, Se, Te, Po):
+0 Există organisme vii bazate pe Te
+0 Există organisme vii bazate pe Se
+1 Există organisme vii bazate pe S
+0 S + H2 → H6S
+1 S + H2 → H2S
+0 O2 + F2 → OF6
+0 S + F2 → SF2
+1 O2 + F2 → OF2
+1 S + F2 → SF6
+0 Te are peste 30 de alotropi (Te2, Te3, Te4, Te5, Te6, Te7, Te8, Te9, ...)
+0 Se are peste 30 de alotropi (Se2, Se3, Se4, Se5, Se6, Se7, Se8, Se9, ...)
+1 S are peste 30 de alotropi (S2, S3, S4, S5, S6, S7, S8, S9, ...)
+
+Identificaţi care stări de oxidare sunt date corect pentru clor:
+0 Cl2 => Cl: +1
+1 Cl2 => Cl: 0
+0 Cl2 => Cl: -1
+1 HClO => Cl: +1
+0 HClO => Cl: -1
+0 HCl => Cl: +1
+1 HClO4 => Cl: +7
+1 HCl => Cl: -1
+
+În legătură cu halogenii (X: F, Cl, Br, I, At):
+0 F este cel mai electropozitiv element
+1 F este cel mai electronegativ element
+0 S + Cl2 → SCl6
+1 S + F2 → SF6
+0 X2 + X''2 → XX''6 (X=I, X''=F)
+1 X2 + X''2 → XX''7 (X=I, X''=F)
+0 X2 + X''2 → XX''4 (X=Br, X''=F)
+1 X2 + X''2 → XX''5 (X=Br, X''=F)
+0 X2 + X''2 → XX''2 (X=Cl, X''=F)
+1 X2 + X''2 → XX''3 (X=Cl, X''=F) 
+
+În legătură cu gazele rare (He, Ne, Ar, Kr, Xe, Rn):
+0 Xe e folosit în baloane atmosferice
+1 He e folosit în baloane atmosferice
+0 132Xe se foloseste în criogenie
+1 3He se foloseste în criogenie
+0 Xe se comporta similar cu H2
+1 Xe se comporta similar cu O2
+0 O2(g) + PtH6(g) → Xe[PtH6](s)
+0 Xe(g) + PtH6(g) → Xe[PtH6](s)
+1 O2(g) + PtF6(g) → Xe[PtF6](s)
+1 Xe(g) + PtF6(g) → Xe[PtF6](s) 
+
+În leg
+ătur
+ă cu elementele tranziţionale ale perioadei a 4-a (Sc: 3d14s2, Ti: 3d24s2, V: 3d34s2, Cr:
+3d54s1, Mn: 3d54s2, Fe: 3d64s2, Co: 3d74s2, Ni: 3d84s2, Cu: 3d104s1, Zn: 3d104s2):
+1 Pot forma complecşi cu st
+ări de oxidare neuzuale (zero sau negative) cum sunt (Fe(C5H5)2,
+Cr(CO)6, Mo(CO)6, V(CO)6
+-
+0 Zn poate avea 6 numere de oxidare pozitive: Zn2+, Zn3+, Zn4+, Zn5+, Zn6+, Zn7+ (Zn(NO2)2, ZnPO4, (Zn(NO3)4, K3ZnO4, K2ZnO4, KZnO4)
+1 Mn poate avea 6 numere de oxidare pozitive: Mn2+, Mn3+, Mn4+, Mn5+, Mn6+, Mn7+ (Mn(NO2)2, MnPO4, (Mn(NO3)4, K3MnO4, K2MnO4, KMnO4)
+0 Ti poate avea 6 numere de oxidare pozitive: Ti1+, Ti2+, Ti3+, Ti4+, Ti5+, Ti6+ (TiH, TiSO4, TiB, TiCl4, TiF5, TiO2F2)
+1 Cr poate avea 6 numere de oxidare pozitive: Cr1+, Cr2+, Cr3+, Cr4+, Cr5+, Cr6+ (CrH, CrSO4, CrB, CrCl4, CrF5, CrO2F2)
+0 Un singur element - V - poate avea numărul de oxidare +7 (V+7)
+0 Un singur element - Cr - poate avea numărul de oxidare +7 (Cr2O72-)
+1 Un singur element - Mn - poate avea numărul de oxidare +7 (MnO4-)
+0 Cu o singură excepţie (Cu) acestea pot avea numărul de oxidare +3 (ionii Sc3+, Ti3+, V3+,Cr3+, Mn3+, Fe3+, Co3+, Ni3+, Zn3+)
+1 Cu o singură excepţie (Zn) acestea pot avea numărul de oxidare +3 (ionii Sc3+, Ti3+, V3+,Cr3+, Mn3+, Fe3+, Co3+, Ni3+, Cu3+)
+0 Toate dintre acestea pot avea numărul de oxidare +3 (ionii Sc3+, Ti3+, V3+, Cr3+, Mn3+, Fe3+,Co3+, Ni3+, Cu3+, Zn3+)
+1 Toate dintre acestea pot avea numărul de oxidare +2 (ionii Sc2+, Ti2+, V2+, Cr2+, Mn2+, Fe2+,Co2+, Ni2+, Cu2+, Zn2+)
+0 Dintre acestea Sc poate avea numărul de oxidare +1 (ionul Sc1+)
+1 Dintre acestea Cr şi Cu pot avea numărul de oxidare +1 (ionii Cr1+ şi Cu1+) 
+
+În legătură cu elementele tranziţionale:
+0 Aliajele pe bază de Al cu adaos de Mg sunt folosite pentru dozele de băuturi
+1 Aliajele pe bază de Al cu adaos de Mn sunt folosite pentru dozele de băuturi
+0 Oţelul de scule de mare viteză ultra dur Cr-W-Co-C este un aliaj pe bază de Al
+1 Oţelul de scule de mare viteză ultra dur Cr-W-Co-C este un aliaj pe bază de Fe
+0 Zr2O este un bun catalizator pentru reacţii de oxidare (cum ar fi pentru obţinerea H2SO4 - catalizator pentru oxidarea SO2 la SO3)
+1 V2O5 este un bun catalizator pentru reacţii de oxidare (cum ar fi pentru obţinerea H2SO4 - catalizator pentru oxidarea SO2 la SO3)
+0 Aproximativ 10% din producţia curentă de titaniu este folosită în construcţia de avioane supersonice şi nave spaţiale
+1 Aproximativ 90% din producţia curentă de titaniu este folosită în construcţia de avioane supersonice şi nave spaţiale
+0 Aliajul de zinc cu 6% Al şi 4% V are foarte bune proprietăţi mecanice şi este utilizat pentru rezervoare de gaz (H2, O2, F2) şi rachete
+1 Aliajul de titaniu cu 6% Al şi 4% V are foarte bune proprietăţi mecanice şi este utilizat pentru rezervoare de gaz (H2, O2, F2) şi rachete
+0 Ti, Zr şi Hf sunt foarte puţin rezistente la agenţi chimici la temperaturi moderate datorită formării unui strat neproductiv de oxid la suprafaţă
+1 Ti, Zr şi Hf sunt foarte rezistente la agenţi chimici la temperaturi moderate datorită formării unui strat protectiv de oxid la suprafaţă
+0 Tantalatul de Lutetiu (LuTa4) este cel mai dens material alb cunoscut (9.81 g/cm3)
+1 Tantalatul de Lutetiu (LuTaO4) este cel mai dens material alb cunoscut (9.81 g/cm3) 
+
+În legătură cu elementele tranziţionale:
+0 Mercurul este bioacumulant pentru că concentraţia sa ([Hg]) în ecosisteme tinde să evolueze în progresia: [Hg]apă ~ 500·[Hg]plancton; [Hg]plancton ~ 20·[Hg]stridii; [Hg]stridii ~ 5·[Hg]ştiucă; [Hg]ştiucă ~ 60· [Hg]vultur
+1 Mercurul este bioacumulant pentru că concentraţia sa ([Hg]) în ecosisteme tinde să evolueze în progresia: [Hg]plancton ~ 500·[Hg]apă; [Hg]stridii ~ 20·[Hg]plancton; [Hg]ştiucă ~ 5·[Hg]stridii; [Hg]vultur ~ 60· [Hg]ştiucă
+0 FeO (fier alb) este utilizat ca pigment
+1 ZnO (zinc alb) este utilizat ca pigment
+1 Mg este prezent în clorofilă
+0 Fe este prezent în clorofilă
+0 Mg este prezent în mioglobină şi hemoglobină
+1 Fe este prezent în mioglobină şi hemoglobină
+0 Rh este de aproximativ 2 ori mai puţin răspândit decât Ir, Ru este de aproximativ 2 ori mai puţin răspândit decât Rh, Os este de aproximativ 2 ori mai puţin răspândit decât Ru, Pt este deaproximativ 1.5 ori mai puţin răspândit decât Os, şi Pd este de aproximativ 1.5 ori mai puţin răspândit decât Pt
+1 Pt este de aproximativ 2 ori mai puţin răspândit decât Pd, Os este de aproximativ 2 ori maipuţin răspândit decât Pt, Ru este de aproximativ 2 ori mai puţin răspândit decât Os, Rh este deaproximativ 1.5 ori mai puţin răspândit decât Ru, şi Ir este de aproximativ 1.5 ori mai puţinrăspândit decât Rh
+0 Co este de aproximativ 700 de ori mai puţin răspândit decât Pd, Ni este de aproximativ 3 ori mai puţin răspândit decât Co, Fe este de aproximativ 5000 de ori mai puţin răspândit decât Ni
+1 Ni este de aproximativ 700 de ori mai puţin răspândit decât Fe, Co este de aproximativ 3 ori mai puţin răspândit decât Ni, Pd este de aproximativ 5000 de ori mai puţin răspândit decât Co
+
+În legătură cu lantanidele şi actinidele:
+0 În reacţiile nucleare masa se transformă în energie (∆E = c2·∆m)
+1 În reacţiile nucleare masa se conservă (∆m = 0)
+0 Izotopul U cu Z=92 şi A=135 are aplicaţii în producerea de energie
+1 Izotopul U cu Z=92 şi A=235 are aplicaţii în producerea de energie
+0 Exemple de combinaţii ale uraniului sunt: UH6, UO4, UF7, UF8
+1 Exemple de combinaţii ale uraniului sunt: UH3, UO2, UF5, UF6
+0 Lantanidele au aplicaţii în metalurgie, cosmetică şi recuperare medicală
+1 Lantanidele au aplicaţii în superconductibilitate, magnetism şi optoelectronică
+0 Lantanidele (Ln) în reacţie cu oxigenul formează compuşi de forma LnO2 exceptând Ceriul (Ce2O3)
+1 Lantanidele (Ln) în reacţie cu oxigenul formează compuşi de forma Ln2O3 exceptând Ceriul (CeO2)
+1 Lantanidele sunt dificil de separat
+0 Lantanidele sunt uşor de separat
+0 Lantanidele au proprietăţi chimice şi electrochimice foarte diferite
+1 Lantanidele au proprietăţi chimice şi electrochimice foarte similare
+0 Lantanidele au tendinţa să formeze ioni 1+
+0 Lantanidele au tendinţa să formeze ioni 2+
+1 Lantanidele au tendinţa să formeze ioni 3+
+
+n legătură cu elementele grupei 13 (B, Al, Ga, In, Tl) şi 14 (C, Si, Ge, Sn, Pb):
+0 Lungimea legăturilor covalente scade cu scăderea electronegativităţii şi a ordinului de legătură
+0 Lungimea legăturilor covalente creşte cu creşterea electronegativităţii şi a ordinului de legătură
+1 Lungimea legăturilor covalente creşte cu scăderea electronegativităţii şi a ordinului de legătură
+1 Lungimea legăturilor covalente scade cu creşterea electronegativităţii şi a ordinului de legătură
+0 Elementele grupei 13 dau compuşi cu legături covalente MX (BF, AlCl) care sunt în exces de electroni
+1 Elementele grupei 13 dau compuşi cu legături covalente MX3 (BF3, AlCl3) care sunt deficienţi în electroni 
+
+In legătură cu elementele grupei 13 (B, Al, Ga, In, Tl) şi 14 (C, Si, Ge, Sn, Pb):
+0 Siliconii au schelet de oxid de carbon (-(>)C-O-(>)C-O-(>)C-) şi terminaţii grupari silicil (- SiH3)
+1 Siliconii au schelet de oxid de siliciu (-(>)Si-O-(>)Si-O-(>)Si-) şi terminaţii grupari metil (- CH3)
+0 Siliciul are tendinţa să polimerizeze (...-Si-Si-Si-...)
+0 Dioxidul de carbon are tendinţa să polimerizeze (...-O-C(O-)2-O-...)
+1 Dioxidul de siliciu are tendinţa să polimerizeze (...-O-Si(O-)2-O-...)
+1 Carbonul are tendinţa să polimerizeze (...-C-C-C-...)
+0 Carbonul are tendinţa să formeze cicluri de 3, 4 şi 5 atomi
+1 Carbonul are tendinţa să formeze cicluri de 5, 6 şi 7 atomi 
+
+În legătură cu compuşii cabonului:
+0 Fulerenele, nanotuburile şi nanospumele sunt alotropi ai siliciului
+1 Fulerenele, nanotuburile şi nanospumele sunt alotropi ai carbonului
+0 H-(CO)-N(CH3)2 este o amină şi N(CH3)3 este o amidă
+1 H-(CO)-N(CH3)2 este o amidă şi N(CH3)3 este o amină
+0 HC3-(CO)-H este o cetonă şi HC3-(CO)-CH3 este o aldehidă
+1 HC3-(CO)-H este o aldehidă şi HC3-(CO)-CH3 este o cetonă
+0 H2C=CH2 este o alchină şi HC≡CH este o alchenă
+1 H2C=CH2 este o alchenă şi HC≡CH este o alchină
+0 H3C-O-CH3 este un tiol şi H3C-S-CH3 este un eter 
+
+În legătură cu compuşii cabonului:
+1 H3C-O-CH3 este un eter şi H3C-S-CH3 este un tiol
+1 HCOOH şi CH3COOH sunt acizi
+0 HCOOH şi CH3COOH sunt alcooli
+0 CH3OH şi CH3CH2OH sunt acizi
+1 CH3OH şi CH3CH2OH sunt alcooli
+0 Haloalcanii au structura generală R-H, unde H este hidrogen
+1 Haloalcanii au structura generală R-X, unde X este halogen
+0 Alcanii au formula moleculară CnH2n (ex. CH2)
+1 Alcanii au formula moleculară CnH2n+2 (ex. CH4) 
+
+În legătură cu ceramicile:
+0 Sunt proiectate a poseda proprietăţi electrice, magnetice şi termice uzuale
+1 Sunt proiectate a poseda proprietăţi electrice, magnetice şi termice speciale
+0 Sunt proiectate pentru aplicaţii de înaltă elasticitate
+1 Sunt proiectate pentru aplicaţii de înaltă tensiune
+0 Conţin compuşi ai metalelor cu ceriul
+0 Conţin compuşi ai metalelor cu fluorul
+0 Conţin compuşi ai metalelor cu heliul
+0 Conţin compuşi ai metalelor cu hidrogenul
+1 Conţin compuşi ai metalelor cu siliciul
+1 Conţin compuşi ai metalelor cu borul
+1 Conţin compuşi ai metalelor cu azotul
+1 Conţin compuşi ai metalelor cu oxigenul 
+
+În legătură cu izolatori, semiconductori, conductori şi supraconductori:
+0 Supraconductor la temperatură ridicată este HgBa2Ca2Cu3O8 deoarece TS = 134 °C
+1 Supraconductor la temperatură ridicată este HgBa2Ca2Cu3O8 deoarece TS = 134 K
+0 Superconductibilitatea dispare când se coboară sub o anumită temperatură
+1 Superconductibilitatea dispare când se depăşeşte o anumită temperatură
+0 Superconductibilitatea apare la temperaturi înalte
+1 Superconductibilitatea apare la temperaturi joase
+0 În conductori banda de conducţie şi banda de valenţă sunt total suprapuse
+0 În semiconductori banda de conducţie şi banda de valenţă sunt depărtate
+0 În izolatori banda de conducţie şi banda de valenţă sunt apropiate
+1 În conductori banda de conducţie şi banda de valenţă sunt partial suprapuse
+1 În semiconductori banda de conducţie şi banda de valenţă sunt apropiate
+1 În izolatori banda de conducţie şi banda de valenţă sunt depărtate 
+
+În legătură cu polimerii:
+1 Teflonul este un polimer sintetic
+0 Teflonul este un polimer natural
+1 Polistirenul este un polimer sintetic
+0 Polistirenul este un polimer natural
+0 Peptidele sunt polimeri sintetici
+1 Peptidele sunt polimeri naturali
+0 Celuloza este un polimer sintetic
+1 Celuloza este un polimer natural
+
+În legătură cu tipurile de reacţii chimice:
+1 AB + CD → AD + CB defineşte o dezlocuire
+0 AB + CD → AD + CB defineşte o descompunere
+0 AB → A + B defineşte o dezlocuire
+1 AB → A + B defineşte o descompunere
+1 A + B → AB defineşte o sinteză
+0 A + B → AB defineşte o rearanjare
+0 A → B defineşte o sinteză
+1 A → B defineşte o rearanjare 
+
+Stabiliţi dacă procesele sunt definite corect de reacţiile chimice:
+1 Disociere: MgCl2(aq) Mg2+(aq) + 2Cl-(aq)
+0 Reacţie: MgCl2(aq) Mg2+(aq) + 2Cl-(aq)
+0 Disociere: MgO(s) + 2HCl(aq) → MgCl2(aq) + H2O(l)
+1 Reacţie: MgO(s) + 2HCl(aq) → MgCl2(aq) + H2O(l)
+1 Disociere: NaOH(aq) Na+(aq) + HO-(aq)
+0 Dizolvare: NaOH(aq) Na+(aq) + HO-(aq)
+0 Disociere: NaOH(s) → NaOH(aq)
+1 Dizolvare: NaOH(s) → NaOH(aq) 
+
+În legătură cu ionii dizolvaţi în apă:
+1 K+ se înconjură de 6 molecule de H2O
+1 Na+ se înconjură de 5 molecule de H2O
+0 Li+ se înconjură de 6 molecule de H2O
+0 Li+ se înconjură de 5 molecule de H2O
+1 Li+ se înconjură de 4 molecule de H2O
+0 Cl- se înconjură de 6 molecule de H2O
+1 Cl- se înconjură de 5 molecule de H2O
+0 F- se înconjură de 5 molecule de H2O
+1 F- se înconjură de 6 molecule de H2O
+0 NH4+ se înconjură de 5 molecule de H2O
+0 NH4+ se înconjură de 3 molecule de H2O
+1 NH4+ se înconjură de 4 molecule de H2O
+
